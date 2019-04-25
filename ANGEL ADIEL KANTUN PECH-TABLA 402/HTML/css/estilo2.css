@@ -1,0 +1,123 @@
+#principal{
+  width:  900px;
+  height: 1000px;
+  border: 2px solid #000;
+  margin: auto;
+
+}
+
+header{
+  width: 900px;
+  height: 80px;
+  border: 1px solid #ffffff;
+}
+
+#logo{
+  width: 400px;
+  height: auto;
+  border: 1px solid #ffffff;
+  float:right;
+}
+
+.menu{
+  width: 900px;
+  height: 80px;
+  border: 1px solid #ffffff;
+  float: right;
+  margin-top:0px;
+  background: #FFC0CB;
+  
+}
+
+.menu ul{}
+
+.menu ul BLOCKQUOTE{
+  float: center;
+  
+}
+
+#slide{
+  margin-top: 10px;
+  width: 900px;
+  height: 250px;
+}
+
+#categorias{
+  width:450px;
+  height: auto; overflow:hidde;
+  border: 1px solid;
+  margin-top:1px;
+  float: right;
+} 
+
+
+.uno{
+  width:500px;
+  height:296;
+  border: 1px solid;
+  float: right;
+  background:#D8BFD8;
+}
+
+
+#info{
+  width:900px;
+  height:auto;
+  border:1px solid #c0c0c0;
+  float:right;
+}
+#afi{
+  width:360px;
+  height:460;
+  border:1px solid #000;
+  margin-left:1px;
+  margin-right:1px;
+  float:right;
+  background:#E6E6FA;
+}
+#def{
+  width:530px;
+  height:230;
+  border:1px solid #000;
+  margin-left:1px;
+  margin-right:1px;
+  float:right;
+  background:#AFEEEE;
+}
+#vir{
+  width:530px;
+  height:230;
+  border:1px solid #000;
+  margin-left:1px;
+  margin-right:1px;
+  float:right;
+  background:#FFFE4E1;
+}  
+#com{
+  width:900px;
+  height:auto;
+  border:1px solid #000;
+  float:right;
+  background:#AFEEEE;
+}
+#gem{
+  width:150px;
+  height:22px;
+  border:1px slid #808080;
+  margin:3px;
+  margin-left:450px;
+}
+
+
+.dos{
+  text-decoration:none;
+  border:1px solid #808080;
+  
+}
+.dos:hover{
+  background:#006699;
+  color:#fff;
+}
+
+
+  

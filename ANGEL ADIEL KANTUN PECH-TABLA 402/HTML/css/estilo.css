@@ -1,0 +1,106 @@
+#principal{
+  width:  950px;
+  height: 1000px;
+  border: 2px solid #000;
+  margin: auto;
+
+}
+
+header{
+  width: 950px;
+  height: 80px;
+  border: 1px solid #ffffff;
+}
+
+#logo{
+  width: 395px;
+  height: 385px;
+  border: 1px solid #ffffff;
+  float: left;
+  
+}
+
+.menu{
+  width: 550px;
+  height: 80px;
+  border: 1px solid #ffffff;
+  float: right;
+  margin-top:0px;
+  background: #006699;
+  
+}
+
+.menu ul{}
+
+.menu ul BLOCKQUOTE{
+  float: center;
+  
+}
+
+#slide{
+  margin-top: 10px;
+  width: 900px;
+  height: 250px;
+}
+
+#categorias{
+  width:545px;
+  height: auto; overflow:hidde;
+  border: 1px solid;
+  margin-top:0px;
+  float: right;
+} 
+
+
+.uno{
+  width:545px;
+  height:300px;
+  border: 1px solid;
+  float: left;
+  background:#25FF2C;
+}
+
+
+#info{
+  width:950px;
+  height:auto;
+  border:1px solid #c0c0c0;
+  float:right;
+}
+#afi{
+  width:312px;
+  height:550px;
+  border:1px solid #000;
+  margin-left:1px;
+  margin-right:1px;
+  float:left;
+  background:#FF0000;
+}
+#def{
+  width:312px;
+  height:550px;
+  border:1px solid #000;
+  margin-left:1px;
+  margin-right:1px;
+  float:left;
+  background:#120CE8;
+}
+#vir{
+  width:312px;
+  height:550px;
+  border:1px solid #000;
+  margin-left:1px;
+  margin-right:1px;
+  float:left;
+  background:#e8b20c;
+}  
+#com{
+  width:950px;
+  height:auto;
+  border:1px solid #000;
+  float:right;
+  background:#10241B;
+}
+
+
+  

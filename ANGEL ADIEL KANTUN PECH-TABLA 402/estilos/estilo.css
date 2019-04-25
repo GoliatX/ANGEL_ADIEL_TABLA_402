@@ -1,0 +1,13 @@
+body{
+  background: #300F0E;
+}
+
+table{
+ border: black 10px solid;
+ background: #E8100C;
+}
+
+th,td{
+border: 1px solid orange;
+}
+  
